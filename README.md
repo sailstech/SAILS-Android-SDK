@@ -9,4 +9,3 @@ Android SDK of SAILS engine which includes indoor positioning, vector map, multi
 Java doc of SAILS Android SDK can be referred  [here](http://cloud.sailstech.com/sails-resource/download/doc/android/index.html)
 , please login to SAILS Cloud to see the java doc.
 
-We will support Maven centeral and jcenter respository in the following weeks.
